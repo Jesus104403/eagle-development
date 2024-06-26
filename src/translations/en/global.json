@@ -1,0 +1,38 @@
+{
+    "home":{
+        "designation":"Web Developer",
+        "bio":"Innovation and professionalism in each code",
+        "get":"Get a Quote",
+        "about":"About Me",
+        "years":"Years of",
+        "success":"Success",
+        "projects":"Projects",
+        "completed":"Completed"
+    },
+    
+    "header":{
+        "home":"Home",
+        "about":"About",
+        "portfolio":"Portfolio",
+        "service":"Service",
+        "contact":"Contact"
+    },
+
+    "features":{
+        "title-dedication":"Dedication",
+        "smart":"Smart Work",
+        "intelligence":"Intelligence",
+        "text-dedication":"Welcome to Eagle Developer. We are passionate about transforming ideas into unique and functional digital experiences. We dedicate this platform to all those who seek to stand out in the digital world, offering customized and high quality solutions. Our commitment is to you, your vision and your success. Thank you for trusting us to make your online presence a reality.",
+        "text-smart":"At EagleDev, we believe in the intelligence behind every web project. Our mission is to create digital solutions that are not only visually stunning, but also functional and optimized for success.",
+        "text-intelligence":"At EagleDev, intelligence is not just a word, it is the basis of everything we do. Our philosophy focuses on applying intelligent solutions that optimize every aspect of web development."
+    },
+
+    "page-about":{
+        "designation":"We are developers",
+        "title":"I am focused on marketing and helping people with their websites.",
+        "text":"we are a company focused on giving customer satisfaction with their websites since 2022 I like to provide agility with innovation and professionalism with each of my clients. ",
+        "view":"View Portfolio"
+    }
+
+
+}

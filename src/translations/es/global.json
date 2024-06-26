@@ -1,0 +1,38 @@
+{
+    "home":{
+        "designation":"Desarrollador web",
+        "bio":"Innovación y profesionalidad en cada código",
+        "get":"Solicitar presupuesto",
+        "about":"Acerca de mí",
+        "years":"Años de",
+        "success":"exito",
+        "projects":"Proyectos",
+        "completed":"Completados"
+    },
+
+    "header":{
+        "home":"Inicio",
+        "about":"Acerca de",
+        "portfolio":"Portafolio",
+        "service":"Servicio",
+        "contact":"Contacto"
+    },
+
+    "features":{
+        "title-dedication":"Dedicación",
+        "smart":"Inteligencia de trabajo",
+        "intelligence":"Inteligencia",
+        "text-dedication":"Bienvenido a Eagles Development. Nos apasiona transformar ideas en experiencias digitales únicas y funcionales. Dedicamos esta plataforma a todos aquellos que buscan destacar en el mundo digital, ofreciendo soluciones personalizadas y de alta calidad. Nuestro compromiso es con usted,Gracias por confiar en nosotros para hacer realidad su presencia online.",
+        "text-smart":"En EagleDev, creemos en la inteligencia que hay detrás de cada proyecto web. Nuestra misión es crear soluciones digitales que no solo sean visualmente impresionantes, sino también funcionales y optimizadas para el éxito.",
+        "text-intelligence":"En EagleDev, la inteligencia no es sólo una palabra, es la base de todo lo que hacemos. Nuestra filosofía se centra en aplicar soluciones inteligentes que optimicen todos los aspectos del desarrollo web."
+    },
+
+    "page-about":{
+      "designation":"Somos desarrolladores",
+      "title":"Me dedico al marketing y a ayudar a la gente con sus sitios web.",
+      "text":"Somos una empresa centrada en dar satisfacción al cliente con sus páginas web desde 2022 me gusta aportar agilidad con innovación y profesionalidad con cada uno de mis clientes.",
+       "view":"Ver Portafolio"
+      
+    }
+
+}
